@@ -815,12 +815,14 @@ percent of my Stat 110 students who answer the question correctly. The
 grey error bars indicate 95% confidence intervals for the percent
 correct for my students. If the 95% confidence interval does not overlap
 the national norm, this indicates that my students are scoring
-significantly higher (or lower) than the national norm on that question.&lt;/p&gt;
+significantly higher (or lower) than the national norm on that question.  (Click the image for an enlarged view).&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&#39;../../img/gep.png&#39;&gt;
 &lt;figure&gt;
-&lt;center&gt;
+    &lt;center&gt;
     &lt;img src=&#34;../../img/gep.png&#34; width=&#34;500&#34;&gt;
 &lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Other than a single question from Competency 4, the 95% confidence
 interval bars are entirely above or overlap the national norms. This
@@ -1112,7 +1114,10 @@ in part to their ability to communicate data insights effectively and
 visually. Some of these successes include:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;: 3 separate Winona State teams won &amp;ldquo;Best Overall Presentation,&amp;rdquo; &amp;ldquo;Acumen Award&amp;rdquo;, and &amp;ldquo;Honorable Mention&amp;rdquo; at MinneMUDAC 2017 out of more than 60 teams. &lt;a href=&#34;http://minneanalytics.org/more-than-60-teams-present-findings-at-minnemudac-2017/&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fall 2016&lt;/strong&gt;: Winona State team wins Serendipitous Discovery Award at MinneMUDAC 2016. &lt;a href=&#34;http://minneanalytics.org/diving-into-water-data-the-outcomes-of-minnemudac/&#34; target=&#34;_blank&#34;&gt;Press
+        release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2017&lt;/strong&gt;:  Winona State team wins Best Overall Analysis at MUDAC 2017.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fall 2017&lt;/strong&gt;: 3 separate Winona State teams won &amp;ldquo;Best Overall Presentation,&amp;rdquo; &amp;ldquo;Acumen Award&amp;rdquo;, and &amp;ldquo;Honorable Mention&amp;rdquo; at MinneMUDAC 2017 out of more than 60 teams. &lt;a href=&#34;http://minneanalytics.org/more-than-60-teams-present-findings-at-minnemudac-2017/&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Fall 2017&lt;/strong&gt;:  As part of their midterm project in DSCI 310 (Fall 2017), groups
     of students participated in the nationwide, ASA-sponsored Police
     Data Challenge. All groups had to visualize a data set with
@@ -1122,11 +1127,8 @@ visually. Some of these successes include:&lt;/p&gt;
     to the Police Foundation. &lt;a href=&#34;http://thisisstatistics.org/police-data-challenge-congratulations-to-our-winners/&#34; target=&#34;_blank&#34;&gt;Press
         Release&lt;/a&gt; |  &lt;a href=&#34;http://thisisstatistics.org/wp-content/uploads/2018/01/Best-Overall-College-.pptx&#34; target=&#34;_blank&#34;&gt;Winning
         presentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fall 2017&lt;/strong&gt;: A team of Winona State students won First Place Overall at
+&lt;li&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;: A team of Winona State students won First Place Overall at
     MUDAC 2018. Another WSU team was one of the final 5 teams. &lt;a href=&#34;http://wsumathstats.blogspot.com/2018/04/mudac-2018.html&#34; target=&#34;_blank&#34;&gt;Press
-        release&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Spring 2017&lt;/strong&gt;:  Winona State team wins Best Overall Analysis at MUDAC 2017.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fall 2016&lt;/strong&gt;: Winona State team wins Serendipitous Discovery Award at MinneMUDAC 2016. &lt;a href=&#34;http://minneanalytics.org/diving-into-water-data-the-outcomes-of-minnemudac/&#34; target=&#34;_blank&#34;&gt;Press
         release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1238,6 +1240,15 @@ are a total of &lt;strong&gt;753&lt;/strong&gt; student responses shown&lt;stron
     &lt;img src=&#34;../../img/prof-rate2.png&#34; width=&#34;500&#34;&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;Tne figure below shows these student responses by semester, beginning Fall 2014 through Fall 2018.  There is a slight trend upward in the &lt;em&gt;strongly agree&lt;/em&gt; responses for the &amp;ldquo;helpfulness&amp;rdquo; and &amp;ldquo;expectations&amp;rdquo; statements over time.  In general, the responses hold pretty constant over time (click for larger image):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;../../img/course-eval-term1.png&#39;&gt;
+&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;../../img/course-eval-term1.png&#34; width=&#34;1600&#34;&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Overall, the responses have been very positive, especially with respect
 to my enthusiasm, knowledge of material, and helpfulness. Of the five
 questions, these are the ones I am most concerned with and am
@@ -1253,6 +1264,15 @@ describes your overall evaluation of the instructor&amp;rsquo;s teaching?&lt;/em
 
 &lt;p&gt;Of the &lt;strong&gt;753&lt;/strong&gt; responses, 659/753 = 88% used either &amp;ldquo;excellent&amp;rdquo; or
 &amp;ldquo;good&amp;rdquo; to describe their overall evaluation of my teaching.&lt;/p&gt;
+
+&lt;p&gt;The figure below shows the percent of responses to this question over time.  Note that after Fall 2017, there are no &amp;ldquo;Poor&amp;rdquo; or &amp;ldquo;Fair&amp;rdquo; responses.  The percent of &amp;ldquo;excellent&amp;rdquo; and &amp;ldquo;good&amp;rdquo; ratings make up the vast majority of responses, and hold relatively constant over time:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;../../img/course-eval-term2.png&#39;&gt;
+&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;../../img/course-eval-term2.png&#34; width=&#34;1600&#34;&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Displayed below are some comments from students taken across all year&amp;rsquo;s course evaluations, in response to the question &lt;strong&gt;&lt;em&gt;The thing I liked MOST about this course was&amp;hellip;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -1598,7 +1618,7 @@ Atherosclerosis. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;.  180(7):
 
 &lt;li&gt;&lt;p&gt;Malone C, &lt;strong&gt;Bergen S&lt;/strong&gt;, and Deppa B.  &lt;em&gt;ASA REU Experiences at Winona State University.&lt;/em&gt;  Joint Statistical Meetings.  Baltimore, MD.  2017. &lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=323913&#34; target=&#34;_blank&#34;&gt;Link to abstract and presentation.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Tourangeau E, Halbleib J, and &lt;strong&gt;Bergen S&lt;/strong&gt;.  &lt;em&gt;A universal measure of household weath from global census microdata.&lt;/em&gt;   Joint Statistical Meetings.  Baltimore, MD.  2017.  &lt;a href=&#34;http://driftlessdata.space/files/JSM-Poster.pdf&#34; target=&#34;_blank&#34;&gt;Link to poster.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tourangeau E, Halbleib J, and &lt;strong&gt;Bergen S&lt;/strong&gt;.  &lt;em&gt;A universal measure of household wealth from global census microdata.&lt;/em&gt;   Joint Statistical Meetings.  Baltimore, MD.  2017.  &lt;a href=&#34;http://driftlessdata.space/files/JSM-Poster.pdf&#34; target=&#34;_blank&#34;&gt;Link to poster.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;presentations-disseminating-creative-achievement-in-my-courses&#34;&gt;Presentations disseminating creative achievement in my courses&lt;/h3&gt;
@@ -1668,7 +1688,11 @@ They facilitate the opportunity to interact with participants more than a tradit
 &lt;li&gt;&lt;em&gt;Teaching data science.&lt;/em&gt; Chris Malone, co-organizer.  U.S. Conference on Teaching Statistics.  May 2015. &lt;a href=&#34;http://course1.winona.edu/cmalone/workshops/uscots2015/&#34; target=&#34;_blank&#34;&gt;Link to workshop materials.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;grants&#34;&gt;Grants&lt;/h2&gt;
+
 &lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Prior to Summer 2017, I spearheaded a successful application for Winona State University to host a 10-week Research Experience for Undergraduates (REU) in collaboration with Chris Malone and Brant Deppa. The REU was awarded by the American Statistical Association (ASA) through a competitive application process, and provided funding and support to bring 4 undergraduate students to learn about data analysis as a science and profession. More detail on this REU is provided in my &lt;a href=&#34;../crit4/#reu&#34;&gt;criterion 4 narrative&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1781,7 +1805,7 @@ They facilitate the opportunity to interact with participants more than a tradit
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;Of the five criterion narratives, this the one I have most been looking forward to writing.  In many ways, my desire to invest in a career centered around teaching was (and is) fueled by an excitement about making a significant and positive difference in the lives of students during a formative period of their life&amp;rsquo;s arc.  Much of this happens in the classroom, but there is so much that takes place outside the classroom walls: in my office, in a van on the way to a field trip, over a celebratory beer at the final semester&amp;rsquo;s end, in the time spend crafting a letter on whose wings the recipient wiltoward graduate school.  To the students I have had the pleasure of shaping in some way, and who have left their indelible mark on me, I dedicate this narrative.&lt;/p&gt;
+&lt;p&gt;Of the five criterion narratives, this the one I have most been looking forward to writing.  In many ways, my desire to invest in a career centered around teaching was (and is) fueled by an excitement about making a significant and positive difference in the lives of students during a formative period of their life&amp;rsquo;s arc.  Much of this happens in the classroom, but there is so much that takes place outside the classroom walls: in my office, in a van on the way to a field trip, over a celebratory beer at the final semester&amp;rsquo;s end, in the time spent crafting a letter on whose wings the recipient will advance toward graduate school.  To the students I have had the pleasure of shaping in some way, and who have left their indelible mark on me, I dedicate this narrative.&lt;/p&gt;
 
 &lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;
 
@@ -1830,7 +1854,7 @@ The University of Minnesota&amp;rsquo;s Department of Biostatistics periodically
     &lt;img src=&#34;../../img/twins.jpg&#34; width=&#34;500&#34;&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;In November 2018, Chris Malone and I took nine students to visit the Minnesota Twins&amp;rsquo; baseball operations.  I organized this trip after reaching out to Director of Baseball Operations Daniel Adler, who graciously agreed to host us for a couple on a Friday morning to hold a Q&amp;amp;A session with students.  This was a fantastic sneak peak behind the curtain of how a Major League front office makes evidence-based decisions on trades, player development, and drafting. One of the perks of the visit was a personal tour of Target Field in the offseason!&lt;/p&gt;
+&lt;p&gt;In November 2018, Chris Malone and I took nine students to visit the Minnesota Twins&amp;rsquo; baseball operations.  I organized this trip after reaching out to Director of Baseball Operations Daniel Adler, who graciously agreed to host us for a couple hours on a Friday morning to hold a Q&amp;amp;A session with students.  This was a fantastic sneak peak behind the curtain of how a Major League front office makes evidence-based decisions on trades, player development, and drafting. One of the perks of the visit was a personal tour of Target Field in the offseason!&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&#34;comps&#34;&gt;&lt;/a&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -1965,6 +1989,8 @@ The University of Minnesota&amp;rsquo;s Department of Biostatistics periodically
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/1zggfqq0ii0atd2/Poster.pptx?dl=0&#34; target=&#34;_blank&#34;&gt;Rounak Kejriwal, Health insurance prices in the U.S.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&#34;reu&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;WINSTATS REU&lt;/em&gt;&lt;/p&gt;
 
